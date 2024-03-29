@@ -1,0 +1,1 @@
+export const WIDTH_SIDE_BAR_IN_PX = 336;
